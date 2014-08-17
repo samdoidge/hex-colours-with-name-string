@@ -2,7 +2,7 @@ hex-colours-with-name-string
 ============================
 
 ```php
-			$colours  =  array(
+	$colours  =  array(
             "black"=>"#000000", 
             "maroon"=>"#800000", 
             "green"=>"#008000", 
@@ -19,4 +19,4 @@ hex-colours-with-name-string
             "fuchsia"=>"#FF00FF", 
             "aqua"=>"#00FFFF", 
             "white"=>"#FFFFFF");
-            ```
+
